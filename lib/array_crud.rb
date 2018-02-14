@@ -7,8 +7,8 @@ num =[1, 2, 3, 4]
 end
 
 def add_element_to_end_of_array(array, element)
-num =[1, 2, 3, 4]
-num << 5
+array
+array << 5
 end
 
 def add_element_to_start_of_array(array, element)
